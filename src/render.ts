@@ -203,8 +203,6 @@ export async function renderPage(page: PageObjectResponse, notion: Client) {
     }
   }
 
-  // save metadata
-  frontMatter.NOTION_METADATA = page;
 
   // save update time
   frontMatter.UPDATE_TIME = (new Date()).toISOString()
