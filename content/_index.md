@@ -1,20 +1,20 @@
 ---
 menu:
     main:
-        name: 主页
-        weight: 1
-        params:
+       - name: 主页
+         weight: 1
+         params:
             icon: home
 
-        name: 标签
-        widget: 2
-        url: /tags/
-        params:
+        - name: 标签
+          widget: 2
+          url: /tags/
+          params:
             icon: tag
 
-        name: 关于
-        widget: 3
-        url: /about/
-        params:
+        - name: 关于
+          widget: 3
+          url: /about/
+          params:
             icon: star
 ---
