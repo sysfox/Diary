@@ -203,9 +203,6 @@ export async function renderPage(page: PageObjectResponse, notion: Client) {
     }
   }
 
-
-  // save update time
-  frontMatter.UPDATE_TIME = (new Date()).toISOString()
   // save nearest expiry time
   if (nearest_expiry_time) frontMatter.EXPIRY_TIME = nearest_expiry_time
  
