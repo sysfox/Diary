@@ -13,6 +13,8 @@
         
         <guid>https://diary.trfox.ml/posts/20230129/</guid>
         <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;历经千辛万苦，终于把Hugo对接到了Notion，但还要等原作者醒来回复我的issue，来解决文章不显示在首页的问题。&lt;/p&gt;
+&lt;p&gt;Qexo似乎准备支持Hugo等其它博客程序了，在想我一上午的心血会不会白费，早知道就早点看看Qexo的commit了。&lt;/p&gt;
 </description>
         </item>
         <item>
