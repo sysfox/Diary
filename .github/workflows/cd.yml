@@ -36,7 +36,10 @@ jobs:
       CLOUDFLARE_PAGES_DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
 
     steps:
-
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0    
+          
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
