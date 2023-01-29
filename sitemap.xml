@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://example.org/posts/20230129-sunday/</loc>
-    <lastmod>2023-01-29T02:57:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/about/</loc>
-    <lastmod>2023-01-29T02:54:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2023-01-29T02:58:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2023-01-29T02:58:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/test-embed/</loc>
-    <lastmod>2023-01-29T02:54:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/the-proof-of-riemann-hypothesis-by-chatgpt/</loc>
-    <lastmod>2023-01-29T02:58:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://diary.trfox.ml/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2023-01-29T02:58:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://diary.trfox.ml/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
