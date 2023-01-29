@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Teror的日记本</title>
-        <link>https://diary.trfox.ml/posts/</link>
-        <description>Recent content in Posts on Teror的日记本</description>
+        <title>日记本 on Teror的日记本</title>
+        <link>https://diary.trfox.ml/tags/%E6%97%A5%E8%AE%B0%E6%9C%AC/</link>
+        <description>Recent content in 日记本 on Teror的日记本</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 29 Jan 2023 02:54:00 +0000</lastBuildDate><atom:link href="https://diary.trfox.ml/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 29 Jan 2023 02:54:00 +0000</lastBuildDate><atom:link href="https://diary.trfox.ml/tags/%E6%97%A5%E8%AE%B0%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>20230129 Sunday</title>
         <link>https://diary.trfox.ml/posts/20230129-sunday-3bcd29dbc2284b358e767e7cf35bb934/</link>
         <pubDate>Sun, 29 Jan 2023 02:54:00 +0000</pubDate>

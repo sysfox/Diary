@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://diary.trfox.ml/</loc>
-    <lastmod>2023-01-29T02:58:00+00:00</lastmod>
+    <lastmod>2023-01-29T05:34:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,22 +16,10 @@
                 />
   </url><url>
     <loc>https://diary.trfox.ml/posts/20230129-sunday-3bcd29dbc2284b358e767e7cf35bb934/</loc>
-    <lastmod>2023-01-29T02:57:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diary.trfox.ml/about-9e9b69ea82d9415eac227b110f3d8377/</loc>
-    <lastmod>2023-01-29T02:54:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diary.trfox.ml/posts/</loc>
-    <lastmod>2023-01-29T02:58:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diary.trfox.ml/test-embed-d18498c71cff4e6493e43097a7be1551/</loc>
-    <lastmod>2023-01-29T02:54:00+00:00</lastmod>
-  </url><url>
-    <loc>https://diary.trfox.ml/posts/the-proof-of-riemann-hypothesis-by-chatgpt-cc871f108f804dddad10aa6db58bd5c1/</loc>
-    <lastmod>2023-01-29T02:58:00+00:00</lastmod>
+    <lastmod>2023-01-29T05:34:00+00:00</lastmod>
   </url><url>
     <loc>https://diary.trfox.ml/categories/</loc>
-    <lastmod>2023-01-28T23:13:00+00:00</lastmod>
+    <lastmod>2023-01-29T05:34:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,11 +31,11 @@
                 href="https://diary.trfox.ml/categories/"
                 />
   </url><url>
-    <loc>https://diary.trfox.ml/post/</loc>
-    <lastmod>2023-01-28T23:13:00+00:00</lastmod>
+    <loc>https://diary.trfox.ml/posts/</loc>
+    <lastmod>2023-01-29T05:34:00+00:00</lastmod>
   </url><url>
     <loc>https://diary.trfox.ml/tags/</loc>
-    <lastmod>2023-01-28T23:13:00+00:00</lastmod>
+    <lastmod>2023-01-29T05:34:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -58,6 +46,15 @@
                 hreflang="zh-cn"
                 href="https://diary.trfox.ml/tags/"
                 />
+  </url><url>
+    <loc>https://diary.trfox.ml/tags/%E6%97%A5%E8%AE%B0%E6%9C%AC/</loc>
+    <lastmod>2023-01-29T05:34:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diary.trfox.ml/categories/%E6%97%A5%E8%AE%B0%E6%9C%AC/</loc>
+    <lastmod>2023-01-29T05:34:00+00:00</lastmod>
+  </url><url>
+    <loc>https://diary.trfox.ml/post/</loc>
+    <lastmod>2023-01-28T23:13:00+00:00</lastmod>
   </url><url>
     <loc>https://diary.trfox.ml/p/hello-world/</loc>
     <lastmod>2023-01-28T23:13:00+00:00</lastmod>
